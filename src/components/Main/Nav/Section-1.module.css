@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.wrapperSection {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.header {
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'TT Travels Trl', sans-serif;
+    width: 900px;
+}
+
+.infoText {
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: underline rgba(160, 167, 71, 1);
+}

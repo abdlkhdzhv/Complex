@@ -1,0 +1,10 @@
+.wrapperRumTur {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card {
+    width: 1180px;
+    align-self: center;
+}

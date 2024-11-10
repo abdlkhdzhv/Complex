@@ -1,0 +1,18 @@
+.infoText {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: underline rgba(160, 167, 71, 1);   
+    text-align: center;
+}
+
+.wrDec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+}

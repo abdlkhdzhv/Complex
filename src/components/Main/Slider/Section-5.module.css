@@ -1,0 +1,10 @@
+.wrapperSection {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.header {
+    width: 500px;
+    align-self: center;
+}

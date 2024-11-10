@@ -1,0 +1,9 @@
+.wrapperMain {
+    display:flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+* {
+    font-family: 'TT Travels Trl', sans-serif;
+}

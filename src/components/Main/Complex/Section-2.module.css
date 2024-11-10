@@ -1,0 +1,11 @@
+.wrapperImg {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    position: absolute;
+    right: 450px;
+    bottom: 10px;
+}
